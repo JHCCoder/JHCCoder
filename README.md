@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning analyzing single-cell transcriptomic and epigenomic data. Coding mainly in R and python.
+Learning single-cell transcriptomic and epigenomic data analysis. Coding in R and python.
